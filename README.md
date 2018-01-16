@@ -52,4 +52,5 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 ![alt tag](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
 
 https://creativecommons.org/licenses/by-nc-nd/3.0/us/
-This pack is originally made by cBBp. This licence does not forfait any original licences.
+This pack is originally made by cBBp who has given me permission to maintain this mod.
+This licence does not forfait any original licences.
