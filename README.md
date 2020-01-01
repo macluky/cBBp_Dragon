@@ -27,10 +27,11 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 
 ##NOTES:
 
-* none
+* known issue with the offset of the thrusters, help appreciated
 
 ##Changes
 
+* fixes for KSP 1.8.1
 * fixes for KSP 1.2.2
 * added mission flags
 * updated buoyancy profile
